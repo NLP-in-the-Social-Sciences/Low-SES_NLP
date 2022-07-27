@@ -1,0 +1,20 @@
+(0, '0.001*"respect" + 0.001*"rent" + 0.001*"retirement" + 0.001*"retire" + 0.001*"rest" + 0.001*"schedule" + 0.001*"requisite" + 0.001*"refuse" + 0.001*"relentless" + 0.001*"sea"') 
+
+(1, '0.017*"lot" + 0.017*"grow" + 0.017*"also" + 0.012*"poor" + 0.012*"well" + 0.012*"company" + 0.012*"good" + 0.012*"career" + 0.012*"industry" + 0.012*"do"') 
+
+(2, '0.013*"feel" + 0.011*"well" + 0.011*"year" + 0.010*"school" + 0.008*"know" + 0.008*"most" + 0.008*"push" + 0.008*"mom" + 0.008*"only" + 0.008*"student"') 
+
+(3, '0.017*"school" + 0.012*"level" + 0.012*"home" + 0.012*"high_school" + 0.012*"live" + 0.012*"result" + 0.012*"point" + 0.012*"actually" + 0.012*"own" + 0.006*"people"') 
+
+(4, '0.023*"work" + 0.015*"school" + 0.012*"say" + 0.012*"people" + 0.010*"year" + 0.010*"time" + 0.010*"get" + 0.010*"last" + 0.010*"kid" + 0.008*"mum"') 
+
+(5, '0.030*"work" + 0.026*"job" + 0.022*"school" + 0.013*"year" + 0.013*"graduate" + 0.013*"first" + 0.013*"well" + 0.013*"family" + 0.013*"hard" + 0.013*"get"') 
+
+(6, '0.016*"get" + 0.016*"go" + 0.016*"just" + 0.016*"so" + 0.016*"work" + 0.011*"day" + 0.011*"purchase" + 0.011*"much" + 0.011*"early" + 0.011*"class"') 
+
+(7, '0.001*"school" + 0.001*"friend" + 0.001*"feel" + 0.001*"make" + 0.001*"other" + 0.001*"connect" + 0.001*"never" + 0.001*"work" + 0.001*"change" + 0.001*"tool"') 
+
+(8, '0.001*"work" + 0.001*"most" + 0.001*"mom" + 0.001*"now" + 0.001*"call" + 0.001*"still" + 0.001*"family" + 0.001*"life" + 0.001*"set" + 0.001*"sac"') 
+
+(9, '0.030*"job" + 0.019*"get" + 0.017*"good" + 0.015*"take" + 0.013*"college" + 0.013*"family" + 0.011*"money" + 0.011*"just" + 0.011*"class" + 0.011*"big"') 
+

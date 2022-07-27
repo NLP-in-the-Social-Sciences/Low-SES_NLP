@@ -24,3 +24,25 @@ Alternative Lemmatizer/stopword tool
 # list_of_sentences_data = []
 # for i in list_of_sentences:
 #   list_of_sentences_data.append(gensim.utils.simple_preprocess(i, deacc= True)
+
+
+
+
+
+
+# # Remove rare and common tokens.
+
+# # Create a dictionary representation of the documents.
+# dictionary = Dictionary(train_texts)
+# print(dictionary)
+
+# # Filter out words that occur more than 50% of the documents.
+# #dictionary.filter_extremes(no_above=0.)
+
+# # Bag-of-words representation of the documents.
+# corpus = [dictionary.doc2bow(text) for text in train_texts]
+
+# #See how mnay tokens and documents we have to train on. 
+# print(Number of unique tokens: %d % len(dictionary))
+# #print(Number of unique tokens: %d % len(dictionary))
+# print(Number of documents: %d % len(corpus))
