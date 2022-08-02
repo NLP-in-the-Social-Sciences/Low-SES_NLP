@@ -1,0 +1,20 @@
+(0, '0.045*"good" + 0.039*"family" + 0.020*"sister" + 0.013*"back" + 0.013*"big" + 0.013*"relative" + 0.013*"then" + 0.013*"friend" + 0.013*"try" + 0.012*"poor"') 
+
+(1, '0.001*"respect" + 0.001*"rent" + 0.001*"retirement" + 0.001*"retire" + 0.001*"rest" + 0.001*"schedule" + 0.001*"requisite" + 0.001*"refuse" + 0.001*"relentless" + 0.001*"sea"') 
+
+(2, '0.034*"job" + 0.031*"well" + 0.021*"school" + 0.018*"graduate" + 0.017*"get" + 0.016*"year" + 0.016*"first" + 0.012*"college" + 0.012*"work" + 0.011*"keep"') 
+
+(3, '0.014*"feel" + 0.014*"student" + 0.013*"year" + 0.011*"school" + 0.009*"well" + 0.009*"also" + 0.007*"lot" + 0.007*"push" + 0.007*"struggle" + 0.007*"bachelor"') 
+
+(4, '0.038*"work" + 0.023*"hard" + 0.008*"school" + 0.008*"good" + 0.008*"full" + 0.008*"thing" + 0.008*"help" + 0.008*"parent" + 0.008*"see" + 0.008*"encourage"') 
+
+(5, '0.025*"work" + 0.017*"people" + 0.014*"school" + 0.011*"take" + 0.011*"think" + 0.011*"friend" + 0.011*"good" + 0.008*"adopt" + 0.008*"parent" + 0.008*"say"') 
+
+(6, '0.001*"school" + 0.001*"feel" + 0.001*"make" + 0.001*"connect" + 0.001*"student" + 0.001*"only" + 0.001*"other" + 0.001*"never" + 0.001*"friend" + 0.001*"hard"') 
+
+(7, '0.028*"job" + 0.021*"get" + 0.014*"work" + 0.014*"college" + 0.010*"class" + 0.010*"most" + 0.010*"need" + 0.010*"able" + 0.010*"community" + 0.007*"career"') 
+
+(8, '0.017*"school" + 0.012*"home" + 0.012*"level" + 0.012*"high_school" + 0.012*"live" + 0.012*"point" + 0.012*"actually" + 0.012*"result" + 0.012*"own" + 0.006*"parent"') 
+
+(9, '0.014*"go" + 0.014*"get" + 0.014*"year" + 0.014*"just" + 0.012*"lot" + 0.011*"so" + 0.011*"school" + 0.011*"work" + 0.011*"live" + 0.011*"start"') 
+
