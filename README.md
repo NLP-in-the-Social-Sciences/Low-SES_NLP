@@ -1,4 +1,4 @@
-**Refer to this link as the development in this repo has been moved [here](https://github.com/NLP-in-the-Social-Sciences/Low-SES_NLP)**
+***Refer to [this link](https://github.com/NLP-in-the-Social-Sciences/Low-SES_NLP) as the development in this repo has been moved.***
 
 This repo contains the code and data for [the paper](https://aclanthology.org/2022.nlp4pi-1.6) at the findings of ACL 2022: 
 
