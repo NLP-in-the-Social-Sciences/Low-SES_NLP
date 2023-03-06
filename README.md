@@ -4,7 +4,7 @@ This repo contains the code and data for [the paper](https://aclanthology.org/20
 
 by _[Motti Kelbessa](https://github.com/MoRevolution), [Ilyas Jamil](https://github.com/ilyasjamil), [Labiba Jahan](https://github.com/labibasu)_.
 
-To cite this paper and the code used in it: 
+To cite this paper and the code used in it use the followig: 
 
 ```bibtex
 @inproceedings{kelbessa-etal-2022-impacts,
