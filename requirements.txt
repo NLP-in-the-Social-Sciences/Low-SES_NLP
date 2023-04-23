@@ -1,0 +1,2 @@
+pyLDAvis==3.4.0
+nltk
