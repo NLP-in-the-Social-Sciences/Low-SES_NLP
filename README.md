@@ -1,12 +1,10 @@
-***Refer to [this link](https://github.com/NLP-in-the-Social-Sciences/Low-SES_NLP) as the development in this repo has been moved.***
-
 This repo contains the code and data for [the paper](https://aclanthology.org/2022.nlp4pi-1.6) at the findings of ACL 2022: 
 
 **Impacts of Low Socio-economic Status on Educational Outcomes: A Narrative Based Analysis**[[Paper link]](https://aclanthology.org/2022.nlp4pi-1.6)
 
 by _[Motti Kelbessa](https://github.com/MoRevolution), [Ilyas Jamil](https://github.com/ilyasjamil), [Labiba Jahan](https://github.com/labibasu)_.
 
-To cite this paper and the code used in it: 
+To cite this paper and the code used in it use the followig:
 
 ```bibtex
 @inproceedings{kelbessa-etal-2022-impacts,
@@ -27,4 +25,3 @@ To cite this paper and the code used in it:
 ### Pull Requests
 
 We welcome [Pull Requests](https://github.com/NLP-in-the-Social-Sciences/Low-SES_NLP/pulls) to improve the the methods and code that we used.
-
