@@ -1,0 +1,8 @@
+#files
+*.json
+*.csv
+
+
+#directories 
+.venv/
+__pycache__/
