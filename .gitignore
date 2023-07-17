@@ -1,0 +1,13 @@
+# ignore file 
+2156759x0801100504.pdf
+local_data.json
+.gitattributes
+
+# ignore folders 
+.ipynb_checkpoints/
+.tmp.driveupload/
+Archieve/
+NLP4PI-Paper 14/
+ResearchPaper/
+Word Net and Concept Net/
+venv/
