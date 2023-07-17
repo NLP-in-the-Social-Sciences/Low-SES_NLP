@@ -1,8 +1,18 @@
-#files
+# ignore file 
+local_data.json
+.gitattributes
 *.json
 *.csv
 
-
-#directories 
-.venv/
+# ignore folders 
 __pycache__/
+.ipynb_checkpoints/
+.tmp.driveupload/
+Archieve/
+NLP4PI-Paper 14/
+ResearchPaper/
+Word Net and Concept Net/
+venv/
+.venv/
+
+
